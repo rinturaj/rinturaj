@@ -4,11 +4,11 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on exciting projects in web development and AI.
-- 🌱 I’m constantly learning new things, especially in the fields of machine learning and cloud computing.
+- 🔭 I’m currently working on exciting projects.
+- 🌱 I’m constantly learning new things, especially in the fields of web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 🤔 I’m looking for help with advanced AI model training.
-- 💬 Ask me about web development, AI, and cloud technologies.
+- 🤔 I’m looking for help with advanced application development techniques.
+- 💬 Ask me about Fronted, Backend, Database’s and Cloud Services.
 - 📫 How to reach me: [Email](mailto:rinturajc@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
@@ -20,12 +20,5 @@ Welcome to my GitHub profile!
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinturaj&layout=compact&theme=radical)
-
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 Thank you for visiting my profile!
